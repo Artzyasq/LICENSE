@@ -1,5 +1,5 @@
 return {
-    "bimo1234",
+    "license",
     "ukigas",
     "plocked",
     "license",
